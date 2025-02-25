@@ -115,9 +115,9 @@ gsa.apple.com
 *.icloud.apple.com
 *.icloud-content.com
 *.iwork.apple.com
-mask.icloud.com
-mask-h2.icloud.com
-mask-api.icloud.com
+0.0.0.0 mask.icloud.com
+0.0.0.0 mask-h2.icloud.com
+0.0.0.0 mask-api.icloud.com
 guzzoni.apple.com
 *.smoot.apple.com
 apple-relay.cloudflare.com
