@@ -1,463 +1,462 @@
 #Adobe allow list from https://helpx.adobe.com/enterprise/kb/network-endpoints.html
 #Created 03/23/2025 MOMO
 
+0.0.0.0 *.adbecrsl.com$
+0.0.0.0 *.adbephotos.com$
+0.0.0.0 *.adobe.io$
+0.0.0.0 *.adobesc.com$
+0.0.0.0 *.adobess.com$
+0.0.0.0 *.astockcdn.net$
+0.0.0.0 *.behance.net$
+0.0.0.0 *.creativecloud.com$
+0.0.0.0 *.ftcdn.net$
+0.0.0.0 *.kinesisvideo.*.amazonaws.com$
+0.0.0.0 *.licenses.adobe.com$
+0.0.0.0 *.macromedia.com$
+0.0.0.0 *.omniture.com$
+0.0.0.0 *.s3*.amazonaws.com$
+0.0.0.0 *.services.adobe.com$
+0.0.0.0 *.uservoice.com$
+0.0.0.0 9212252.fls.doubleclick.net$
+0.0.0.0 a3.behance.net$
+0.0.0.0 a5.behance.net$
+0.0.0.0 acc.adobeoobe.com$
+0.0.0.0 access.imageclub.com$
+0.0.0.0 acc-learn.adobe.com$
+0.0.0.0 acc-learn.adobe.io$
+0.0.0.0 account.adobe.com$
+0.0.0.0 accounts.adobe.com$
+0.0.0.0 acp-*.adobe.io$
+0.0.0.0 acpprodva7apollo.blob.core.windows.net/acp-prod-va7-data*$
+0.0.0.0 acp-ss-*.adobe.io$
+0.0.0.0 acp-ss.adobe.io$
+0.0.0.0 acp-ss-an1.adobe.io$
+0.0.0.0 acp-ss-ew1.adobe.io$
+0.0.0.0 acp-ss-ue1.adobe.io$
+0.0.0.0 ad.adobe-identity.com$
+0.0.0.0 adbemdigitalmediarebootprod2.112.2o7.net$
+0.0.0.0 adminconsole.adobe.com$
+0.0.0.0 adobe.com$
+0.0.0.0 adobe.demdex.net$
+0.0.0.0 adobe.io$
+0.0.0.0 adobe.ly$
+0.0.0.0 adobe.tt.omtrdc.net$
+0.0.0.0 adobe-api.arkoselabs.com$
+0.0.0.0 adobeexchange.com$
+0.0.0.0 adobeexchange.com/api$
+0.0.0.0 adobeid.services.adobe.com$
+0.0.0.0 adobeid-na1.services.adobe.com$
+0.0.0.0 adobelogin.prod.ims.adobejanus.com$
+0.0.0.0 adobemobiledev.demdex.net$
+0.0.0.0 adobe-oobe-prod-data-store-ue1.s3.amazonaws.com$
+0.0.0.0 adobesearch.adobe.io$
+0.0.0.0 adobesparkpost.app.link$
+0.0.0.0 adobetag.com$
+0.0.0.0 adobe-verify.arkoselabs.com$
+0.0.0.0 adobe-voice.adobe.io$
+0.0.0.0 adobe-voice-nld2.adobe.io$
+0.0.0.0 adobe-voice-va7.adobe.io$
+0.0.0.0 aep-cs*.s3.amazonaws.com$
+0.0.0.0 aep-cs*.s3-accelerate.amazonaws.com$
+0.0.0.0 aep-cs-blobstore-prod-va6-data.s3.amazonaws.com$
+0.0.0.0 afwebcdn.fonts.adobe.com$
+0.0.0.0 agsupdate.adobe.com$
+0.0.0.0 amazonaws.com$
+0.0.0.0 ams.adobe.com$
+0.0.0.0 ans.oobesaas.adobe.com$
+0.0.0.0 ans.oobesas.adobe.com$
+0.0.0.0 api.account.adobe.com$
+0.0.0.0 api.adobe.io$
+0.0.0.0 api.behance.net$
+0.0.0.0 api.demandbase.com$
+0.0.0.0 api.mapbox.com$
+0.0.0.0 api.typekit.com$
+0.0.0.0 api-cna01.adobe-services.com$
+0.0.0.0 appregistry.adobe.io$
+0.0.0.0 aps-web.adobe.io$
+0.0.0.0 ardownload.adobe.com$
+0.0.0.0 ardownload2.adobe.com$
+0.0.0.0 armmf.adobe.com$
+0.0.0.0 ars.oobesaas.adobe.com$
+0.0.0.0 as.ftcdn.net$
+0.0.0.0 as1.ftcdn.net$
+0.0.0.0 as2.ftcdn.net$
+0.0.0.0 assets.adobe.com$
+0.0.0.0 assets.adobedtm.com$
+0.0.0.0 assets.fonts.adobe.com$
+0.0.0.0 assets2.adobe.com$
+0.0.0.0 assets-cdn.adobe.com$
+0.0.0.0 assets-helper.adobe.io$
+0.0.0.0 audios.ftcdn.net$
+0.0.0.0 auth.services.adobe.com$
+0.0.0.0 awcm177.awmdm.com$
+0.0.0.0 awenroll.adobe.com$
+0.0.0.0 bam.nr-data.net$
+0.0.0.0 bat.bing.com$
+0.0.0.0 blob.core.windows.net$
+0.0.0.0 braze-images.com$
+0.0.0.0 build.phonegap.com$
+0.0.0.0 businesscatalyst.com$
+0.0.0.0 byof.adobe.io$
+0.0.0.0 c.betrad.com$
+0.0.0.0 c.evidon.com$
+0.0.0.0 cai.adobe.io$
+0.0.0.0 cai-identity.adobe.io$
+0.0.0.0 cai-manifests.adobe.com$
+0.0.0.0 cai-msb.adobe.io$
+0.0.0.0 cai-settings.adobe.io$
+0.0.0.0 cai-splunk-proxy.adobe.io$
+0.0.0.0 ccac-cdn.adobe.com$
+0.0.0.0 cc-api-assets.adobe.io$
+0.0.0.0 cc-api-behance.adobe.io$
+0.0.0.0 cc-api-cp.adobe.io$
+0.0.0.0 cc-api-data.adobe.io$
+0.0.0.0 cc-api-image.adobe.io/createagc$
+0.0.0.0 cc-api-image-x.adobe.io/agctosvg$
+0.0.0.0 cc-api-sharedproductions-prerelease.adobe.io$
+0.0.0.0 cc-api-storage*.adobe.io$
+0.0.0.0 cc-api-storage.adobe.io$
+0.0.0.0 cc-api-teamprojects.adobe.io$
+0.0.0.0 cc-api-teamprojects-an1.adobe.io$
+0.0.0.0 cc-api-teamprojects-ew1.adobe.io$
+0.0.0.0 cc-api-teamprojects-ue1.adobe.io$
+0.0.0.0 cc-cdn.adobe.com$
+0.0.0.0 cc-collab.adobe.io$
+0.0.0.0 ccext.adobe.io$
+0.0.0.0 ccext.adobecces.com$
+0.0.0.0 ccext-cdn.adobecces.com$
+0.0.0.0 cc-ext-prod-pkgs.s3.amazonaws.com$
+0.0.0.0 cc-ext-prod-pkgs.s3.amazonaws.com/Extensions/**$
+0.0.0.0 ccext-public.adobe.io$
+0.0.0.0 ccext-static.adobecces.com$
+0.0.0.0 cchome.adobe.io$
+0.0.0.0 cclibraries-defaults-cdn.adobe.com$
+0.0.0.0 ccmdl.adobe.com$
+0.0.0.0 ccmdls.adobe.com$
+0.0.0.0 ccprojects.adobe.io$
+0.0.0.0 ccprojects-va6.adobe.io$
+0.0.0.0 cctypekit.adobe.io$
+0.0.0.0 cdn.cookielaw.org$
+0.0.0.0 cdn.cp.adobe.io$
+0.0.0.0 cdn.inpwrd.net$
+0.0.0.0 cdn.schedule.adobe.com$
+0.0.0.0 cdn.tt.omtrdc.net$
+0.0.0.0 cdn-ffc.oobesaas.adobe.com$
+0.0.0.0 cdn-prod-ccv.adobe.com$
+0.0.0.0 cdn-sharing.adobecc.com$
+0.0.0.0 chrome.google.com$
+0.0.0.0 client.messaging.adobe.com$
+0.0.0.0 client-api.arkoselabs.com$
+0.0.0.0 clientservices.googleapis.com$
+0.0.0.0 client-verify.arkoselabs.com$
+0.0.0.0 clio-assets.adobe.com$
+0.0.0.0 cm.everesttech.net$
+0.0.0.0 color.adobe.com$
+0.0.0.0 comments.adobe.io$
+0.0.0.0 community.adobe.com$
+0.0.0.0 configuration.apple.com$
+0.0.0.0 connect.ffc.adobeoobe.com$
+0.0.0.0 cpf-temp-repo-ue1-prod.s3.amazonaws.com$
+0.0.0.0 creative.adobe.com$
+0.0.0.0 creativecloud.adobe.com$
+0.0.0.0 crs.cr.adobe.com$
+0.0.0.0 cs.licenses.adobe.com$
+0.0.0.0 ct.pinterest.com$
+0.0.0.0 cvs.adobe.com$
+0.0.0.0 d32a1iuc7x840y.cloudfront.net$
+0.0.0.0 d3gnp5fs6fu2h7.cloudfront.net$
+0.0.0.0 d9.flashtalking.com$
+0.0.0.0 data.typekit.net$
+0.0.0.0 dc-api.adobe.io$
+0.0.0.0 dc-api-v2.adobe.io$
+0.0.0.0 delegated.adobelogin.com$
+0.0.0.0 design-assets.adobeprojectm.com$
+0.0.0.0 detect.ffc.adobeoobe.com:15292$
+0.0.0.0 detect.ffc.adobeoobe.com:35691$
+0.0.0.0 detect.ffc.adobeoobe.com:57921$
+0.0.0.0 developer.apple.com$
+0.0.0.0 digicert.com$
+0.0.0.0 digitalpublishing.acrobat.com$
+0.0.0.0 directstorage.adbephotos.com$
+0.0.0.0 dnzuu5synxxfk.cloudfront.net$
+0.0.0.0 docs.aws.amazon.com/general/latest/gr/$
+0.0.0.0 dpm.demdex.net$
+0.0.0.0 dq4p8hz4ypg6l.cloudfront.net$
+0.0.0.0 ds.adobe.io$
+0.0.0.0 ds-an1.adobe.io$
+0.0.0.0 ds-ew1.adobe.io$
+0.0.0.0 ds-ue1.adobe.io$
+0.0.0.0 encoded-videos-0.s3.amazonaws.com$
+0.0.0.0 esp.aptrinsic.com$
+0.0.0.0 exception.licenses.adobe.com$
+0.0.0.0 exchange.adobe.com$
+0.0.0.0 express.adobe.com$
+0.0.0.0 express-brand-migration.adobe.io$
+0.0.0.0 express-search.hz.adobe.com$
+0.0.0.0 faster.typekit.net$
+0.0.0.0 federatedid-na1.services.adobe.com$
+0.0.0.0 federation-gateway.adobe.io$
+0.0.0.0 ffc-icons.oobesaas.adobe.com$
+0.0.0.0 ffc-static-cdn.oobesaas.adobe.com$
+0.0.0.0 firebaseinstallations.googleapis.com$
+0.0.0.0 firebaselogging-pa.googleapis.com$
+0.0.0.0 firebase-settings.crashlytics.com$
+0.0.0.0 firefly.adobe.com$
+0.0.0.0 firefly.adobe.io$
+0.0.0.0 firefly-3di.adobe.io$
+0.0.0.0 firefly-acs.adobe.io$
+0.0.0.0 firefly-ae.adobe.io$
+0.0.0.0 firefly-ai.adobe.io$
+0.0.0.0 firefly-api.adobe.io$
+0.0.0.0 firefly-balancer.adobe.io$
+0.0.0.0 firefly-beta.adobe.io$
+0.0.0.0 firefly-clio-imaging.adobe.io$
+0.0.0.0 firefly-clio-imaging-prerelease.adobe.io$
+0.0.0.0 firefly-cliov2.adobe.com$
+0.0.0.0 firefly-cliov2.adobe.io$
+0.0.0.0 firefly-cme-inference.adobe.io$
+0.0.0.0 firefly-cme-training.adobe.io$
+0.0.0.0 firefly-md.adobe.io$
+0.0.0.0 firefly-prerelease.adobe.io$
+0.0.0.0 firefly-ps.adobe.io$
+0.0.0.0 firefly-st.adobe.io$
+0.0.0.0 fonts.adobe.com$
+0.0.0.0 fotolia-prod-3dobjects.s3.amazonaws.com$
+0.0.0.0 fotolia-prod-audios-originals.s3.amazonaws.com$
+0.0.0.0 fotolia-prod-templates.s3.amazonaws.com$
+0.0.0.0 fotolia-prod-vectors.s3.eu-west-1.amazonaws.com$
+0.0.0.0 fotolia-prod-videos-0.s3.eu-west-1.amazonaws.com$
+0.0.0.0 framework.zend.com$
+0.0.0.0 ftp.yourdomain.com$
+0.0.0.0 gateway.icloud.com$
+0.0.0.0 genuine.adobe.com$
+0.0.0.0 geo.adobe.com$
+0.0.0.0 geo2.adobe.com$
+0.0.0.0 geotrust.com$
+0.0.0.0 globalsign.com$
+0.0.0.0 gocart-web-prod-*.elb.amazonaws.com$
+0.0.0.0 godaddy.com$
+0.0.0.0 googleads.g.doubleclick.net$
+0.0.0.0 gsp64-ssl.ls.apple.com$
+0.0.0.0 hbrt.adobe.com$
+0.0.0.0 helpx.adobe.com$
+0.0.0.0 http://armdl.adobe.com/$
+0.0.0.0 hz-ccx-das.adobe.io$
+0.0.0.0 hz-telemetry.adobe.io$
+0.0.0.0 ic.adobe.io$
+0.0.0.0 ids-proxy.account.adobe.com$
+0.0.0.0 illustrator.adobe.com$
+0.0.0.0 image.adobe.io$
+0.0.0.0 image.adobe.io/sensei/mask$
+0.0.0.0 image.adobe.io/utils/storage?num=2$
+0.0.0.0 images-tv.adobe.com$
+0.0.0.0 ims-na1.adobelogin.com$
+0.0.0.0 ims-prod06.adobelogin.com$
+0.0.0.0 ims-prod07.adobelogin.com$
+0.0.0.0 indd.adobe.com$
+0.0.0.0 invitations.adobe.io$
+0.0.0.0 itunes.apple.com$
+0.0.0.0 jquerymobile.com$
+0.0.0.0 js-agent.newrelic.com$
+0.0.0.0 landing.adobe.com$
+0.0.0.0 lcs-cops.adobe.io$
+0.0.0.0 lcs-entitlement.adobe.io$
+0.0.0.0 lcs-entitlement.adobe.io/v1/trial$
+0.0.0.0 lcs-entitlement.adobe.io/v1/user$
+0.0.0.0 lcs-robs.adobe.io$
+0.0.0.0 lcs-ulecs.adobe.io$
+0.0.0.0 libraries.adobe.io$
+0.0.0.0 licensing.adobe.com$
+0.0.0.0 lightroom.adobe.com$
+0.0.0.0 links.adobe.io$
+0.0.0.0 livecreate-an1.adobe.io$
+0.0.0.0 livecreate-ew1.adobe.io$
+0.0.0.0 livecreate-ue1.adobe.io$
+0.0.0.0 lm.licenses.adobe.com$
+0.0.0.0 mail.adobegov.com$
+0.0.0.0 maps.google.com$
+0.0.0.0 match.prod.bidr.io$
+0.0.0.0 mds-cdn.infra.adobesensei.io$
+0.0.0.0 mesu.apple.com$
+0.0.0.0 metrics.icloud.com$
+0.0.0.0 mir-s3-cdn-cf.behance.net$
+0.0.0.0 msdn.microsoft.com$
+0.0.0.0 myportfolio.com$
+0.0.0.0 na1e.services.adobe.com$
+0.0.0.0 na1e-acc.services.adobe.com$
+0.0.0.0 na1r.services.adobe.com$
+0.0.0.0 new.express.adobe.com$
+0.0.0.0 notify.adobe.io$
+0.0.0.0 o1383653.ingest.sentry.io$
+0.0.0.0 odin.adobe.com$
+0.0.0.0 omniroot.com$
+0.0.0.0 oobe.adobe.com$
+0.0.0.0 oz-prod-asset-aux.s3.us-west-2.amazonaws.com$
+0.0.0.0 oz-prod-cr-params.s3.us-west-2.amazonaws.com$
+0.0.0.0 oz-prod-masters.s3.us-west-2.amazonaws.com$
+0.0.0.0 oz-prod-proxies.s3.us-west-2.amazonaws.com$
+0.0.0.0 oz-prod-proxies-video-1080p.s3.us-west-2.amazonaws.com$
+0.0.0.0 oz-prod-proxies-video-1080p709.s3.us-west-2.amazonaws.com$
+0.0.0.0 oz-prod-proxies-video-1080p-bt709.s3.us-west-2.amazonaws.com$
+0.0.0.0 oz-prod-proxies-video-360p.s3.us-west-2.amazonaws.com$
+0.0.0.0 oz-prod-proxies-video-fullsize.s3.us-west-2.amazonaws.com$
+0.0.0.0 oz-prod-versions.s3.us-west-2.amazonaws.com$
+0.0.0.0 p.typekit.net$
+0.0.0.0 p13n.adobe.io$
+0.0.0.0 p13n-mr.adobe.io$
+0.0.0.0 pf-temp-repo-ue1-prod.s3.amazonaws.com$
+0.0.0.0 pgc.adobe.io$
+0.0.0.0 phonos-recordings-production.s3.amazonaws.com$
+0.0.0.0 phonos-recordings-production.s3-accelerate.amazonaws.com$
+0.0.0.0 phonos-server.adobe.io$
+0.0.0.0 photos.adobe.io$
+0.0.0.0 photoshop.adobe.com$
+0.0.0.0 photoshop.com$
+0.0.0.0 pixel.quantserve.com$
+0.0.0.0 platform-assets.typekit.net$
+0.0.0.0 platform-cs*.adobe.io$
+0.0.0.0 platform-cs.adobe.io$
+0.0.0.0 platform-cs-edge.adobe.io$
+0.0.0.0 platform-cs-edge-va6.adobe.io$
+0.0.0.0 platform-cs-edge-va6c2.adobe.io$
+0.0.0.0 platform-cs-edge-va7.adobe.io$
+0.0.0.0 platform-cs-va6.adobe.io$
+0.0.0.0 platform-cs-va6-adobe.io$
+0.0.0.0 play.google.com$
+0.0.0.0 podcast.adobe.com$
+0.0.0.0 policy.adobe.io$
+0.0.0.0 polka.typekit.com$
+0.0.0.0 polka.typekit.net$
+0.0.0.0 pps.adobe.io$
+0.0.0.0 presence-an1.adobe.io$
+0.0.0.0 presence-ew1.adobe.io$
+0.0.0.0 presence-ue1.adobe.io$
+0.0.0.0 pre-signed-firefly-prod.s3.amazonaws.com$
+0.0.0.0 pre-signed-firefly-prod.s3-accelerate.amazonaws.com$
+0.0.0.0 preview.illustrator.adobe.com$
+0.0.0.0 prod.acp.adobeoobe.com$
+0.0.0.0 prod.adobeccstatic.com$
+0.0.0.0 prod.adobegenuine.com$
+0.0.0.0 prod.wam.adobe.com$
+0.0.0.0 prod-rel-ffc-ccm.oobesaas.adobe.com$
+0.0.0.0 productrouter.adobe.com$
+0.0.0.0 prosite.com$
+0.0.0.0 psweb-cd.adobe.io$
+0.0.0.0 pubcerts.licenses.adobe.com$
+0.0.0.0 public.adobecc.com$
+0.0.0.0 rande.html#s3_region$
+0.0.0.0 resources.licenses.adobe.com$
+0.0.0.0 revel-prod-us-west-2.s3.us-west-2.amazonaws.com$
+0.0.0.0 s.ftcdn.net$
+0.0.0.0 s3.amazonaws.com$
+0.0.0.0 s3.amazonaws.com/tron-ffc-icons-prod/$
+0.0.0.0 schedule.adobe.io$
+0.0.0.0 scripts.demandbase.com$
+0.0.0.0 scss.adobesc.com$
+0.0.0.0 sdk.iad-01.braze.com$
+0.0.0.0 search.adobe.io$
+0.0.0.0 sensei.adobe.io$
+0.0.0.0 sensei.adobe.io/services/v2/predict$
+0.0.0.0 senseicore.adobe.io$
+0.0.0.0 senseicore-ue1.adobe.io$
+0.0.0.0 senseimds.adobe.io$
+0.0.0.0 sensei-ue1.adobe.io$
+0.0.0.0 sensei-va6.adobe.io$
+0.0.0.0 server.messaging.adobe.com$
+0.0.0.0 services.prod.ims.adobejanus.com$
+0.0.0.0 sharedcloud-production*.s3.amazonaws.com$
+0.0.0.0 sharedcloud-production*.s3-accelerate.amazonaws.com$
+0.0.0.0 sharedcloud-production-us-east-1-data-asset.s3.amazonaws.com$
+0.0.0.0 sharedcloud-production-us-east-1-data-temp.s3.amazonaws.com$
+0.0.0.0 slp-statics.astockcdn.net$
+0.0.0.0 snap.licdn.com$
+0.0.0.0 soundcloud.com$
+0.0.0.0 spark-content-publish.adobe.io$
+0.0.0.0 spark-design-variations-v2.adobe.io$
+0.0.0.0 splcloud.adobe.io$
+0.0.0.0 sso.behance.net$
+0.0.0.0 ss-prod-an1-notif-13-aws.adobess.com$
+0.0.0.0 ss-prod-an1-notif-16.aws.adobess.com$
+0.0.0.0 ss-prod-ew1-notif-13-aws.adobess.com$
+0.0.0.0 ss-prod-ew1-notif-16.aws.adobess.com$
+0.0.0.0 ss-prod-ue1-notif-13-aws.adobess.com$
+0.0.0.0 ss-prod-ue1-notif-16.aws.adobess.com$
+0.0.0.0 ss-prod-ue1-notif-79.aws.adobess.com$
+0.0.0.0 ss-prod-ue1-ns.aws.adobess.com$
+0.0.0.0 sstats.adobe.com$
+0.0.0.0 state.typekit.net$
+0.0.0.0 static.adobelogin.com$
+0.0.0.0 static.thenounproject.com$
+0.0.0.0 static-assets.photoshop.adobe.com$
+0.0.0.0 stock.adobe.com$
+0.0.0.0 stock.adobe.io$
+0.0.0.0 stock-apex-images-prod-ew1.s3.eu-west-1.amazonaws.com$
+0.0.0.0 stock-landing-pages.adobe.io$
+0.0.0.0 stocks-data-service.apple.com$
+0.0.0.0 stock-vip-processed-prod-irl1.s3.eu-west-1.amazonaws.com$
+0.0.0.0 store.adobe.com$
+0.0.0.0 store1.adobe.com$
+0.0.0.0 store2.adobe.com$
+0.0.0.0 store3.adobe.com$
+0.0.0.0 story.adobe.com$
+0.0.0.0 subversion.tigris.org$
+0.0.0.0 supportanyware.adobe.io$
+0.0.0.0 swupdl.adobe.com$
+0.0.0.0 swupmf.adobe.com$
+0.0.0.0 symantec.com$
+0.0.0.0 symcb.com$
+0.0.0.0 symcd.com$
+0.0.0.0 t3.ftcdn.net$
+0.0.0.0 t4.ftcdn.net$
+0.0.0.0 thawte.com$
+0.0.0.0 thumbs-0.s3.amazonaws.com$
+0.0.0.0 tron-prod-customized-user-packages.s3.amazonaws.com$
+0.0.0.0 twitter.com$
+0.0.0.0 typekit.com$
+0.0.0.0 udps.adobe.com$
+0.0.0.0 uds.adobe-identity.com$
+0.0.0.0 ui.messaging.adobe.com$
+0.0.0.0 use.edgefonts.net$
+0.0.0.0 use.typekit.com$
+0.0.0.0 use.typekit.net$
+0.0.0.0 utut-service.adobe.com$
+0.0.0.0 v.ftcdn.net$
+0.0.0.0 verisign.com$
+0.0.0.0 video.tv.adobe.com$
+0.0.0.0 videos-0.s3-eu-central-1.amazonaws.com$
+0.0.0.0 weather-data.apple.com$
+0.0.0.0 windowsupdate.com$
+0.0.0.0 workflow.licenses.adobe.com$
+0.0.0.0 worldsecuresystems.com$
+0.0.0.0 wss://livecreate-*.adobe.io$
+0.0.0.0 wss://phonos-server.adobe.io$
+0.0.0.0 wss://presence-*.adobe.io$
+0.0.0.0 wss://prod.wam.adobe.com$
+0.0.0.0 wss://speech.platform.bing.com$
+0.0.0.0 www.adobe.com$
+0.0.0.0 www.amazon.com$
+0.0.0.0 www.apple.com$
+0.0.0.0 www.betrad.com$
+0.0.0.0 www.color.org$
+0.0.0.0 www.eclipse.org$
+0.0.0.0 www.everestjs.net$
+0.0.0.0 www.evidon.com$
+0.0.0.0 www.facebook.com$
+0.0.0.0 www.flickr.com$
+0.0.0.0 www.freedb.org$
+0.0.0.0 www.googleadservices.com$
+0.0.0.0 www.googletagmanager.com$
+0.0.0.0 www.ietf.org$
+0.0.0.0 www.microsoft.com$
+0.0.0.0 www.mp3licensing.com$
+0.0.0.0 www.python.org$
+0.0.0.0 www.rulesforuse.org$
+0.0.0.0 www.shutterfly.com$
+0.0.0.0 www.zoomify.com$
+0.0.0.0 wwwimages.adobe.com$
+0.0.0.0 wwwimages2.adobe.com$
+0.0.0.0 www-prod.adobesunbreak.com$
+0.0.0.0 xd.adobe.com$
+0.0.0.0 xd-cdn.adobecces.com$
+0.0.0.0 xdce.adobe.io$
 
-
-||*.adbecrsl.com$
-||*.adbephotos.com$
-||*.adobe.io$
-||*.adobesc.com$
-||*.adobess.com$
-||*.astockcdn.net$
-||*.behance.net$
-||*.creativecloud.com$
-||*.ftcdn.net$
-||*.kinesisvideo.*.amazonaws.com$
-||*.licenses.adobe.com$
-||*.macromedia.com$
-||*.omniture.com$
-||*.s3*.amazonaws.com$
-||*.services.adobe.com$
-||*.uservoice.com$
-||9212252.fls.doubleclick.net$
-||a3.behance.net$
-||a5.behance.net$
-||acc.adobeoobe.com$
-||access.imageclub.com$
-||acc-learn.adobe.com$
-||acc-learn.adobe.io$
-||account.adobe.com$
-||accounts.adobe.com$
-||acp-*.adobe.io$
-||acpprodva7apollo.blob.core.windows.net/acp-prod-va7-data*$
-||acp-ss-*.adobe.io$
-||acp-ss.adobe.io$
-||acp-ss-an1.adobe.io$
-||acp-ss-ew1.adobe.io$
-||acp-ss-ue1.adobe.io$
-||ad.adobe-identity.com$
-||adbemdigitalmediarebootprod2.112.2o7.net$
-||adminconsole.adobe.com$
-||adobe.com$
-||adobe.demdex.net$
-||adobe.io$
-||adobe.ly$
-||adobe.tt.omtrdc.net$
-||adobe-api.arkoselabs.com$
-||adobeexchange.com$
-||adobeexchange.com/api$
-||adobeid.services.adobe.com$
-||adobeid-na1.services.adobe.com$
-||adobelogin.prod.ims.adobejanus.com$
-||adobemobiledev.demdex.net$
-||adobe-oobe-prod-data-store-ue1.s3.amazonaws.com$
-||adobesearch.adobe.io$
-||adobesparkpost.app.link$
-||adobetag.com$
-||adobe-verify.arkoselabs.com$
-||adobe-voice.adobe.io$
-||adobe-voice-nld2.adobe.io$
-||adobe-voice-va7.adobe.io$
-||aep-cs*.s3.amazonaws.com$
-||aep-cs*.s3-accelerate.amazonaws.com$
-||aep-cs-blobstore-prod-va6-data.s3.amazonaws.com$
-||afwebcdn.fonts.adobe.com$
-||agsupdate.adobe.com$
-||amazonaws.com$
-||ams.adobe.com$
-||ans.oobesaas.adobe.com$
-||ans.oobesas.adobe.com$
-||api.account.adobe.com$
-||api.adobe.io$
-||api.behance.net$
-||api.demandbase.com$
-||api.mapbox.com$
-||api.typekit.com$
-||api-cna01.adobe-services.com$
-||appregistry.adobe.io$
-||aps-web.adobe.io$
-||ardownload.adobe.com$
-||ardownload2.adobe.com$
-||armmf.adobe.com$
-||ars.oobesaas.adobe.com$
-||as.ftcdn.net$
-||as1.ftcdn.net$
-||as2.ftcdn.net$
-||assets.adobe.com$
-||assets.adobedtm.com$
-||assets.fonts.adobe.com$
-||assets2.adobe.com$
-||assets-cdn.adobe.com$
-||assets-helper.adobe.io$
-||audios.ftcdn.net$
-||auth.services.adobe.com$
-||awcm177.awmdm.com$
-||awenroll.adobe.com$
-||bam.nr-data.net$
-||bat.bing.com$
-||blob.core.windows.net$
-||braze-images.com$
-||build.phonegap.com$
-||businesscatalyst.com$
-||byof.adobe.io$
-||c.betrad.com$
-||c.evidon.com$
-||cai.adobe.io$
-||cai-identity.adobe.io$
-||cai-manifests.adobe.com$
-||cai-msb.adobe.io$
-||cai-settings.adobe.io$
-||cai-splunk-proxy.adobe.io$
-||ccac-cdn.adobe.com$
-||cc-api-assets.adobe.io$
-||cc-api-behance.adobe.io$
-||cc-api-cp.adobe.io$
-||cc-api-data.adobe.io$
-||cc-api-image.adobe.io/createagc$
-||cc-api-image-x.adobe.io/agctosvg$
-||cc-api-sharedproductions-prerelease.adobe.io$
-||cc-api-storage*.adobe.io$
-||cc-api-storage.adobe.io$
-||cc-api-teamprojects.adobe.io$
-||cc-api-teamprojects-an1.adobe.io$
-||cc-api-teamprojects-ew1.adobe.io$
-||cc-api-teamprojects-ue1.adobe.io$
-||cc-cdn.adobe.com$
-||cc-collab.adobe.io$
-||ccext.adobe.io$
-||ccext.adobecces.com$
-||ccext-cdn.adobecces.com$
-||cc-ext-prod-pkgs.s3.amazonaws.com$
-||cc-ext-prod-pkgs.s3.amazonaws.com/Extensions/**$
-||ccext-public.adobe.io$
-||ccext-static.adobecces.com$
-||cchome.adobe.io$
-||cclibraries-defaults-cdn.adobe.com$
-||ccmdl.adobe.com$
-||ccmdls.adobe.com$
-||ccprojects.adobe.io$
-||ccprojects-va6.adobe.io$
-||cctypekit.adobe.io$
-||cdn.cookielaw.org$
-||cdn.cp.adobe.io$
-||cdn.inpwrd.net$
-||cdn.schedule.adobe.com$
-||cdn.tt.omtrdc.net$
-||cdn-ffc.oobesaas.adobe.com$
-||cdn-prod-ccv.adobe.com$
-||cdn-sharing.adobecc.com$
-||chrome.google.com$
-||client.messaging.adobe.com$
-||client-api.arkoselabs.com$
-||clientservices.googleapis.com$
-||client-verify.arkoselabs.com$
-||clio-assets.adobe.com$
-||cm.everesttech.net$
-||color.adobe.com$
-||comments.adobe.io$
-||community.adobe.com$
-||configuration.apple.com$
-||connect.ffc.adobeoobe.com$
-||cpf-temp-repo-ue1-prod.s3.amazonaws.com$
-||creative.adobe.com$
-||creativecloud.adobe.com$
-||crs.cr.adobe.com$
-||cs.licenses.adobe.com$
-||ct.pinterest.com$
-||cvs.adobe.com$
-||d32a1iuc7x840y.cloudfront.net$
-||d3gnp5fs6fu2h7.cloudfront.net$
-||d9.flashtalking.com$
-||data.typekit.net$
-||dc-api.adobe.io$
-||dc-api-v2.adobe.io$
-||delegated.adobelogin.com$
-||design-assets.adobeprojectm.com$
-||detect.ffc.adobeoobe.com:15292$
-||detect.ffc.adobeoobe.com:35691$
-||detect.ffc.adobeoobe.com:57921$
-||developer.apple.com$
-||digicert.com$
-||digitalpublishing.acrobat.com$
-||directstorage.adbephotos.com$
-||dnzuu5synxxfk.cloudfront.net$
-||docs.aws.amazon.com/general/latest/gr/$
-||dpm.demdex.net$
-||dq4p8hz4ypg6l.cloudfront.net$
-||ds.adobe.io$
-||ds-an1.adobe.io$
-||ds-ew1.adobe.io$
-||ds-ue1.adobe.io$
-||encoded-videos-0.s3.amazonaws.com$
-||esp.aptrinsic.com$
-||exception.licenses.adobe.com$
-||exchange.adobe.com$
-||express.adobe.com$
-||express-brand-migration.adobe.io$
-||express-search.hz.adobe.com$
-||faster.typekit.net$
-||federatedid-na1.services.adobe.com$
-||federation-gateway.adobe.io$
-||ffc-icons.oobesaas.adobe.com$
-||ffc-static-cdn.oobesaas.adobe.com$
-||firebaseinstallations.googleapis.com$
-||firebaselogging-pa.googleapis.com$
-||firebase-settings.crashlytics.com$
-||firefly.adobe.com$
-||firefly.adobe.io$
-||firefly-3di.adobe.io$
-||firefly-acs.adobe.io$
-||firefly-ae.adobe.io$
-||firefly-ai.adobe.io$
-||firefly-api.adobe.io$
-||firefly-balancer.adobe.io$
-||firefly-beta.adobe.io$
-||firefly-clio-imaging.adobe.io$
-||firefly-clio-imaging-prerelease.adobe.io$
-||firefly-cliov2.adobe.com$
-||firefly-cliov2.adobe.io$
-||firefly-cme-inference.adobe.io$
-||firefly-cme-training.adobe.io$
-||firefly-md.adobe.io$
-||firefly-prerelease.adobe.io$
-||firefly-ps.adobe.io$
-||firefly-st.adobe.io$
-||fonts.adobe.com$
-||fotolia-prod-3dobjects.s3.amazonaws.com$
-||fotolia-prod-audios-originals.s3.amazonaws.com$
-||fotolia-prod-templates.s3.amazonaws.com$
-||fotolia-prod-vectors.s3.eu-west-1.amazonaws.com$
-||fotolia-prod-videos-0.s3.eu-west-1.amazonaws.com$
-||framework.zend.com$
-||ftp.yourdomain.com$
-||gateway.icloud.com$
-||genuine.adobe.com$
-||geo.adobe.com$
-||geo2.adobe.com$
-||geotrust.com$
-||globalsign.com$
-||gocart-web-prod-*.elb.amazonaws.com$
-||godaddy.com$
-||googleads.g.doubleclick.net$
-||gsp64-ssl.ls.apple.com$
-||hbrt.adobe.com$
-||helpx.adobe.com$
-||http://armdl.adobe.com/$
-||hz-ccx-das.adobe.io$
-||hz-telemetry.adobe.io$
-||ic.adobe.io$
-||ids-proxy.account.adobe.com$
-||illustrator.adobe.com$
-||image.adobe.io$
-||image.adobe.io/sensei/mask$
-||image.adobe.io/utils/storage?num=2$
-||images-tv.adobe.com$
-||ims-na1.adobelogin.com$
-||ims-prod06.adobelogin.com$
-||ims-prod07.adobelogin.com$
-||indd.adobe.com$
-||invitations.adobe.io$
-||itunes.apple.com$
-||jquerymobile.com$
-||js-agent.newrelic.com$
-||landing.adobe.com$
-||lcs-cops.adobe.io$
-||lcs-entitlement.adobe.io$
-||lcs-entitlement.adobe.io/v1/trial$
-||lcs-entitlement.adobe.io/v1/user$
-||lcs-robs.adobe.io$
-||lcs-ulecs.adobe.io$
-||libraries.adobe.io$
-||licensing.adobe.com$
-||lightroom.adobe.com$
-||links.adobe.io$
-||livecreate-an1.adobe.io$
-||livecreate-ew1.adobe.io$
-||livecreate-ue1.adobe.io$
-||lm.licenses.adobe.com$
-||mail.adobegov.com$
-||maps.google.com$
-||match.prod.bidr.io$
-||mds-cdn.infra.adobesensei.io$
-||mesu.apple.com$
-||metrics.icloud.com$
-||mir-s3-cdn-cf.behance.net$
-||msdn.microsoft.com$
-||myportfolio.com$
-||na1e.services.adobe.com$
-||na1e-acc.services.adobe.com$
-||na1r.services.adobe.com$
-||new.express.adobe.com$
-||notify.adobe.io$
-||o1383653.ingest.sentry.io$
-||odin.adobe.com$
-||omniroot.com$
-||oobe.adobe.com$
-||oz-prod-asset-aux.s3.us-west-2.amazonaws.com$
-||oz-prod-cr-params.s3.us-west-2.amazonaws.com$
-||oz-prod-masters.s3.us-west-2.amazonaws.com$
-||oz-prod-proxies.s3.us-west-2.amazonaws.com$
-||oz-prod-proxies-video-1080p.s3.us-west-2.amazonaws.com$
-||oz-prod-proxies-video-1080p709.s3.us-west-2.amazonaws.com$
-||oz-prod-proxies-video-1080p-bt709.s3.us-west-2.amazonaws.com$
-||oz-prod-proxies-video-360p.s3.us-west-2.amazonaws.com$
-||oz-prod-proxies-video-fullsize.s3.us-west-2.amazonaws.com$
-||oz-prod-versions.s3.us-west-2.amazonaws.com$
-||p.typekit.net$
-||p13n.adobe.io$
-||p13n-mr.adobe.io$
-||pf-temp-repo-ue1-prod.s3.amazonaws.com$
-||pgc.adobe.io$
-||phonos-recordings-production.s3.amazonaws.com$
-||phonos-recordings-production.s3-accelerate.amazonaws.com$
-||phonos-server.adobe.io$
-||photos.adobe.io$
-||photoshop.adobe.com$
-||photoshop.com$
-||pixel.quantserve.com$
-||platform-assets.typekit.net$
-||platform-cs*.adobe.io$
-||platform-cs.adobe.io$
-||platform-cs-edge.adobe.io$
-||platform-cs-edge-va6.adobe.io$
-||platform-cs-edge-va6c2.adobe.io$
-||platform-cs-edge-va7.adobe.io$
-||platform-cs-va6.adobe.io$
-||platform-cs-va6-adobe.io$
-||play.google.com$
-||podcast.adobe.com$
-||policy.adobe.io$
-||polka.typekit.com$
-||polka.typekit.net$
-||pps.adobe.io$
-||presence-an1.adobe.io$
-||presence-ew1.adobe.io$
-||presence-ue1.adobe.io$
-||pre-signed-firefly-prod.s3.amazonaws.com$
-||pre-signed-firefly-prod.s3-accelerate.amazonaws.com$
-||preview.illustrator.adobe.com$
-||prod.acp.adobeoobe.com$
-||prod.adobeccstatic.com$
-||prod.adobegenuine.com$
-||prod.wam.adobe.com$
-||prod-rel-ffc-ccm.oobesaas.adobe.com$
-||productrouter.adobe.com$
-||prosite.com$
-||psweb-cd.adobe.io$
-||pubcerts.licenses.adobe.com$
-||public.adobecc.com$
-||rande.html#s3_region$
-||resources.licenses.adobe.com$
-||revel-prod-us-west-2.s3.us-west-2.amazonaws.com$
-||s.ftcdn.net$
-||s3.amazonaws.com$
-||s3.amazonaws.com/tron-ffc-icons-prod/$
-||schedule.adobe.io$
-||scripts.demandbase.com$
-||scss.adobesc.com$
-||sdk.iad-01.braze.com$
-||search.adobe.io$
-||sensei.adobe.io$
-||sensei.adobe.io/services/v2/predict$
-||senseicore.adobe.io$
-||senseicore-ue1.adobe.io$
-||senseimds.adobe.io$
-||sensei-ue1.adobe.io$
-||sensei-va6.adobe.io$
-||server.messaging.adobe.com$
-||services.prod.ims.adobejanus.com$
-||sharedcloud-production*.s3.amazonaws.com$
-||sharedcloud-production*.s3-accelerate.amazonaws.com$
-||sharedcloud-production-us-east-1-data-asset.s3.amazonaws.com$
-||sharedcloud-production-us-east-1-data-temp.s3.amazonaws.com$
-||slp-statics.astockcdn.net$
-||snap.licdn.com$
-||soundcloud.com$
-||spark-content-publish.adobe.io$
-||spark-design-variations-v2.adobe.io$
-||splcloud.adobe.io$
-||sso.behance.net$
-||ss-prod-an1-notif-13-aws.adobess.com$
-||ss-prod-an1-notif-16.aws.adobess.com$
-||ss-prod-ew1-notif-13-aws.adobess.com$
-||ss-prod-ew1-notif-16.aws.adobess.com$
-||ss-prod-ue1-notif-13-aws.adobess.com$
-||ss-prod-ue1-notif-16.aws.adobess.com$
-||ss-prod-ue1-notif-79.aws.adobess.com$
-||ss-prod-ue1-ns.aws.adobess.com$
-||sstats.adobe.com$
-||state.typekit.net$
-||static.adobelogin.com$
-||static.thenounproject.com$
-||static-assets.photoshop.adobe.com$
-||stock.adobe.com$
-||stock.adobe.io$
-||stock-apex-images-prod-ew1.s3.eu-west-1.amazonaws.com$
-||stock-landing-pages.adobe.io$
-||stocks-data-service.apple.com$
-||stock-vip-processed-prod-irl1.s3.eu-west-1.amazonaws.com$
-||store.adobe.com$
-||store1.adobe.com$
-||store2.adobe.com$
-||store3.adobe.com$
-||story.adobe.com$
-||subversion.tigris.org$
-||supportanyware.adobe.io$
-||swupdl.adobe.com$
-||swupmf.adobe.com$
-||symantec.com$
-||symcb.com$
-||symcd.com$
-||t3.ftcdn.net$
-||t4.ftcdn.net$
-||thawte.com$
-||thumbs-0.s3.amazonaws.com$
-||tron-prod-customized-user-packages.s3.amazonaws.com$
-||twitter.com$
-||typekit.com$
-||udps.adobe.com$
-||uds.adobe-identity.com$
-||ui.messaging.adobe.com$
-||use.edgefonts.net$
-||use.typekit.com$
-||use.typekit.net$
-||utut-service.adobe.com$
-||v.ftcdn.net$
-||verisign.com$
-||video.tv.adobe.com$
-||videos-0.s3-eu-central-1.amazonaws.com$
-||weather-data.apple.com$
-||windowsupdate.com$
-||workflow.licenses.adobe.com$
-||worldsecuresystems.com$
-||wss://livecreate-*.adobe.io$
-||wss://phonos-server.adobe.io$
-||wss://presence-*.adobe.io$
-||wss://prod.wam.adobe.com$
-||wss://speech.platform.bing.com$
-||www.adobe.com$
-||www.amazon.com$
-||www.apple.com$
-||www.betrad.com$
-||www.color.org$
-||www.eclipse.org$
-||www.everestjs.net$
-||www.evidon.com$
-||www.facebook.com$
-||www.flickr.com$
-||www.freedb.org$
-||www.googleadservices.com$
-||www.googletagmanager.com$
-||www.ietf.org$
-||www.microsoft.com$
-||www.mp3licensing.com$
-||www.python.org$
-||www.rulesforuse.org$
-||www.shutterfly.com$
-||www.zoomify.com$
-||wwwimages.adobe.com$
-||wwwimages2.adobe.com$
-||www-prod.adobesunbreak.com$
-||xd.adobe.com$
-||xd-cdn.adobecces.com$
-||xdce.adobe.io$
